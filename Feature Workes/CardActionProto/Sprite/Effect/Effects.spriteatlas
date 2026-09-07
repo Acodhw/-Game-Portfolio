@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Effects
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 604145019925c44438449570047c6d98, type: 3}
+    - {fileID: 2800000, guid: 10213d9d264ccd74889453a3664b96f0, type: 3}
+    - {fileID: 2800000, guid: cdf0e32babf6b9849a6431c41d0881f6, type: 3}
+    - {fileID: 2800000, guid: f212a02b5431c9a4e9005a137bd931c8, type: 3}
+    - {fileID: 2800000, guid: 6c6fcc0d001c1fb40907e9eb6ec1132f, type: 3}
+    - {fileID: 2800000, guid: 3368d0e53ca5741459bacd1df5872e37, type: 3}
+    - {fileID: 2800000, guid: cd072dae03edd1b4ca2ef646060f3857, type: 3}
+    - {fileID: 2800000, guid: 5bdc50468bfcde849a3e0a243fa24c7d, type: 3}
+    - {fileID: 2800000, guid: cf6908b18e935ce4895fc2b07fc42326, type: 3}
+    - {fileID: 2800000, guid: 1ae29b49309fd884e81c78042e137ae4, type: 3}
+    - {fileID: 2800000, guid: 5f287856241cf5d47946d5d108ac70a9, type: 3}
+    - {fileID: 2800000, guid: ed290cda08e2e954d936a25dfa54aac6, type: 3}
+    - {fileID: 2800000, guid: 121bb8e5c5a3cc743ad6587b75d00fc5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1229258102, guid: f212a02b5431c9a4e9005a137bd931c8, type: 3}
+  - {fileID: 183595712, guid: f212a02b5431c9a4e9005a137bd931c8, type: 3}
+  - {fileID: 1867472482, guid: f212a02b5431c9a4e9005a137bd931c8, type: 3}
+  - {fileID: 833102252, guid: f212a02b5431c9a4e9005a137bd931c8, type: 3}
+  - {fileID: 1099745584, guid: cf6908b18e935ce4895fc2b07fc42326, type: 3}
+  - {fileID: 831037747, guid: cf6908b18e935ce4895fc2b07fc42326, type: 3}
+  - {fileID: 1562892075, guid: cf6908b18e935ce4895fc2b07fc42326, type: 3}
+  - {fileID: 965457146, guid: cf6908b18e935ce4895fc2b07fc42326, type: 3}
+  - {fileID: 973208932, guid: 6c6fcc0d001c1fb40907e9eb6ec1132f, type: 3}
+  - {fileID: 860108924, guid: 6c6fcc0d001c1fb40907e9eb6ec1132f, type: 3}
+  - {fileID: 508203670, guid: 6c6fcc0d001c1fb40907e9eb6ec1132f, type: 3}
+  - {fileID: -577374016, guid: 6c6fcc0d001c1fb40907e9eb6ec1132f, type: 3}
+  - {fileID: 1429165108, guid: 6c6fcc0d001c1fb40907e9eb6ec1132f, type: 3}
+  - {fileID: 1349845487, guid: 121bb8e5c5a3cc743ad6587b75d00fc5, type: 3}
+  - {fileID: 336439322, guid: 121bb8e5c5a3cc743ad6587b75d00fc5, type: 3}
+  - {fileID: -95388957, guid: 121bb8e5c5a3cc743ad6587b75d00fc5, type: 3}
+  - {fileID: 1841423859, guid: 121bb8e5c5a3cc743ad6587b75d00fc5, type: 3}
+  - {fileID: 1536086946, guid: cdf0e32babf6b9849a6431c41d0881f6, type: 3}
+  - {fileID: -1876422712, guid: cdf0e32babf6b9849a6431c41d0881f6, type: 3}
+  - {fileID: -113014595, guid: cdf0e32babf6b9849a6431c41d0881f6, type: 3}
+  - {fileID: -995442968, guid: cdf0e32babf6b9849a6431c41d0881f6, type: 3}
+  - {fileID: 993626086, guid: cdf0e32babf6b9849a6431c41d0881f6, type: 3}
+  - {fileID: 267464057, guid: cdf0e32babf6b9849a6431c41d0881f6, type: 3}
+  - {fileID: 1844297817, guid: cd072dae03edd1b4ca2ef646060f3857, type: 3}
+  - {fileID: -2046748479, guid: cd072dae03edd1b4ca2ef646060f3857, type: 3}
+  - {fileID: 1030411418, guid: cd072dae03edd1b4ca2ef646060f3857, type: 3}
+  - {fileID: -926942812, guid: cd072dae03edd1b4ca2ef646060f3857, type: 3}
+  - {fileID: 1408000036, guid: cd072dae03edd1b4ca2ef646060f3857, type: 3}
+  - {fileID: -1123635041, guid: ed290cda08e2e954d936a25dfa54aac6, type: 3}
+  - {fileID: -200944946, guid: ed290cda08e2e954d936a25dfa54aac6, type: 3}
+  - {fileID: -2085611759, guid: ed290cda08e2e954d936a25dfa54aac6, type: 3}
+  - {fileID: 1655368686, guid: ed290cda08e2e954d936a25dfa54aac6, type: 3}
+  - {fileID: -39570205, guid: 5bdc50468bfcde849a3e0a243fa24c7d, type: 3}
+  - {fileID: 1048531679, guid: 5bdc50468bfcde849a3e0a243fa24c7d, type: 3}
+  - {fileID: 329297087, guid: 5bdc50468bfcde849a3e0a243fa24c7d, type: 3}
+  - {fileID: -717322011, guid: 5bdc50468bfcde849a3e0a243fa24c7d, type: 3}
+  - {fileID: 2133147513, guid: 1ae29b49309fd884e81c78042e137ae4, type: 3}
+  - {fileID: 1924062174, guid: 1ae29b49309fd884e81c78042e137ae4, type: 3}
+  - {fileID: -424205332, guid: 1ae29b49309fd884e81c78042e137ae4, type: 3}
+  - {fileID: 362397641, guid: 1ae29b49309fd884e81c78042e137ae4, type: 3}
+  - {fileID: 421657112, guid: 604145019925c44438449570047c6d98, type: 3}
+  - {fileID: -1049702656, guid: 604145019925c44438449570047c6d98, type: 3}
+  - {fileID: 358588512, guid: 604145019925c44438449570047c6d98, type: 3}
+  - {fileID: 1564188858, guid: 604145019925c44438449570047c6d98, type: 3}
+  - {fileID: -1882401971, guid: 10213d9d264ccd74889453a3664b96f0, type: 3}
+  - {fileID: -624558276, guid: 10213d9d264ccd74889453a3664b96f0, type: 3}
+  - {fileID: -1502889698, guid: 10213d9d264ccd74889453a3664b96f0, type: 3}
+  - {fileID: 661906654, guid: 10213d9d264ccd74889453a3664b96f0, type: 3}
+  - {fileID: -1443294558, guid: 10213d9d264ccd74889453a3664b96f0, type: 3}
+  - {fileID: -695018085, guid: 3368d0e53ca5741459bacd1df5872e37, type: 3}
+  - {fileID: 551015607, guid: 3368d0e53ca5741459bacd1df5872e37, type: 3}
+  - {fileID: -1728839795, guid: 3368d0e53ca5741459bacd1df5872e37, type: 3}
+  - {fileID: 470146074, guid: 3368d0e53ca5741459bacd1df5872e37, type: 3}
+  - {fileID: -255733321, guid: 3368d0e53ca5741459bacd1df5872e37, type: 3}
+  - {fileID: 1653516960, guid: 5f287856241cf5d47946d5d108ac70a9, type: 3}
+  - {fileID: 288418315, guid: 5f287856241cf5d47946d5d108ac70a9, type: 3}
+  - {fileID: 540813185, guid: 5f287856241cf5d47946d5d108ac70a9, type: 3}
+  - {fileID: -1793245322, guid: 5f287856241cf5d47946d5d108ac70a9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Electric_Hit_Effect_1
+  - Electric_Hit_Effect_0
+  - Electric_Hit_Effect_3
+  - Electric_Hit_Effect_2
+  - SwordAura_Hit_Effect_2
+  - SwordAura_Hit_Effect_3
+  - SwordAura_Hit_Effect_0
+  - SwordAura_Hit_Effect_1
+  - Electric_Slash_Hit_Effect_3
+  - Electric_Slash_Hit_Effect_2
+  - Electric_Slash_Hit_Effect_1
+  - Electric_Slash_Hit_Effect_0
+  - Electric_Slash_Hit_Effect_4
+  - FrozenHitEffect_2
+  - FrozenHitEffect_3
+  - FrozenHitEffect_0
+  - FrozenHitEffect_1
+  - Sword_Ultimate_Hit_Effect_3
+  - Sword_Ultimate_Hit_Effect_2
+  - Sword_Ultimate_Hit_Effect_1
+  - Sword_Ultimate_Hit_Effect_0
+  - Sword_Ultimate_Hit_Effect_5
+  - Sword_Ultimate_Hit_Effect_4
+  - CounterAttack_Hit_Effect_0
+  - CounterAttack_Hit_Effect_1
+  - CounterAttack_Hit_Effect_2
+  - CounterAttack_Hit_Effect_3
+  - CounterAttack_Hit_Effect_4
+  - RedWind_Hit_Effect_Emission_3
+  - RedWind_Hit_Effect_Emission_2
+  - RedWind_Hit_Effect_Emission_1
+  - RedWind_Hit_Effect_Emission_0
+  - ElementalCombo_Hit_Effect_3
+  - ElementalCombo_Hit_Effect_2
+  - ElementalCombo_Hit_Effect_1
+  - ElementalCombo_Hit_Effect_0
+  - spinSlash_Hit_Effect_1
+  - spinSlash_Hit_Effect_0
+  - spinSlash_Hit_Effect_3
+  - spinSlash_Hit_Effect_2
+  - Slash_Hit_Effect_1
+  - Slash_Hit_Effect_0
+  - Slash_Hit_Effect_3
+  - Slash_Hit_Effect_2
+  - Boomt_Effect_4
+  - Boomt_Effect_3
+  - Boomt_Effect_2
+  - Boomt_Effect_1
+  - Boomt_Effect_0
+  - AbsolAttack_Hit_Effect_3
+  - AbsolAttack_Hit_Effect_2
+  - AbsolAttack_Hit_Effect_1
+  - AbsolAttack_Hit_Effect_0
+  - AbsolAttack_Hit_Effect_4
+  - Airborne_Effect_2
+  - Airborne_Effect_3
+  - Airborne_Effect_0
+  - Airborne_Effect_1
+  m_RenderDataMap: {}
+  m_Tag: Effects
+  m_IsVariant: 0

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f7b16841caf344e491dc9832c121d100
+timeCreated: 1655541207
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97129
+  packageName: Script & Toolkit for creating 2D parallax background
+  packageVersion: 1.1
+  assetPath: Assets/Parallax2D/Modules/Background/Code/Settings/BackgroundLayersSettings.cs
+  uploadId: 508095

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0c13f83900372a409e7c215be7e37b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97129
+  packageName: Script & Toolkit for creating 2D parallax background
+  packageVersion: 1.1
+  assetPath: Assets/Parallax2D/Modules/Background/Resources/Settings/BackgroundSettings.asset
+  uploadId: 508095

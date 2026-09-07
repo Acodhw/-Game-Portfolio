@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d33ed2f205200e49a37360228aee476
+timeCreated: 1501403394
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97129
+  packageName: Script & Toolkit for creating 2D parallax background
+  packageVersion: 1.1
+  assetPath: Assets/Parallax2D/Modules/Player/Code/PlayerController/Readme (Controller2D).txt
+  uploadId: 508095

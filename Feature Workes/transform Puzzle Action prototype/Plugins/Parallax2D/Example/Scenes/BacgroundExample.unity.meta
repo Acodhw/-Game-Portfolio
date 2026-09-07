@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 873fe6056c56f784a8f660dd03423306
+timeCreated: 1501792106
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97129
+  packageName: Script & Toolkit for creating 2D parallax background
+  packageVersion: 1.1
+  assetPath: Assets/Parallax2D/Example/Scenes/BacgroundExample.unity
+  uploadId: 508095

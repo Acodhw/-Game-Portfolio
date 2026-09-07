@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5c46057d8f41418296c9c401aed637ad
+timeCreated: 1655730424
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97129
+  packageName: Script & Toolkit for creating 2D parallax background
+  packageVersion: 1.1
+  assetPath: Assets/Parallax2D/Modules/Background/Code/Behaviours/CheckPosition.cs
+  uploadId: 508095

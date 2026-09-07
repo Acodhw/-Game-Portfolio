@@ -1,0 +1,1451 @@
+fileFormatVersion: 2
+guid: a4d4e4b52bf9e6a48a57c7f462eb0310
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2383628967539441373
+    second: SitSleep-WakeUp_Hollowing_0
+  - first:
+      213: 4915401353791108892
+    second: SitSleep-WakeUp_Hollowing_1
+  - first:
+      213: -3736805354549060954
+    second: SitSleep-WakeUp_Hollowing_2
+  - first:
+      213: 4648815843609616867
+    second: SitSleep-WakeUp_Hollowing_3
+  - first:
+      213: -5594275937979136297
+    second: SitSleep-WakeUp_Hollowing_4
+  - first:
+      213: -1834262108631019819
+    second: SitSleep-WakeUp_Hollowing_5
+  - first:
+      213: 8960310285468944222
+    second: SitSleep-WakeUp_Hollowing_6
+  - first:
+      213: -5756140491412161057
+    second: SitSleep-WakeUp_Hollowing_7
+  - first:
+      213: 2962485500167723091
+    second: SitSleep-WakeUp_Hollowing_8
+  - first:
+      213: -4511532670321018849
+    second: SitSleep-WakeUp_Hollowing_9
+  - first:
+      213: -2437949824323273652
+    second: SitSleep-WakeUp_Hollowing_10
+  - first:
+      213: 6570165526086669150
+    second: SitSleep-WakeUp_Hollowing_11
+  - first:
+      213: -3539703473997918585
+    second: SitSleep-WakeUp_Hollowing_12
+  - first:
+      213: 1884732237932571609
+    second: SitSleep-WakeUp_Hollowing_13
+  - first:
+      213: 4915133175931831607
+    second: SitSleep-WakeUp_Hollowing_14
+  - first:
+      213: 5730374642171814217
+    second: SitSleep-WakeUp_Hollowing_15
+  - first:
+      213: -2832441573584030757
+    second: SitSleep-WakeUp_Hollowing_16
+  - first:
+      213: 124869092997303860
+    second: SitSleep-WakeUp_Hollowing_17
+  - first:
+      213: 4156192437508517533
+    second: SitSleep-WakeUp_Hollowing_18
+  - first:
+      213: 8763256781880511063
+    second: SitSleep-WakeUp_Hollowing_19
+  - first:
+      213: 7658002796441569723
+    second: SitSleep-WakeUp_Hollowing_20
+  - first:
+      213: 519052328903537117
+    second: SitSleep-WakeUp_Hollowing_21
+  - first:
+      213: 8811542043100720296
+    second: SitSleep-WakeUp_Hollowing_22
+  - first:
+      213: 815539397880399846
+    second: SitSleep-WakeUp_Hollowing_23
+  - first:
+      213: 7902839489884845781
+    second: SitSleep-WakeUp_Hollowing_24
+  - first:
+      213: -5001635434403081170
+    second: SitSleep-WakeUp_Hollowing_25
+  - first:
+      213: -6287203441761272564
+    second: SitSleep-WakeUp_Hollowing_26
+  - first:
+      213: 4949446251985729193
+    second: SitSleep-WakeUp_Hollowing_27
+  - first:
+      213: -7870347208341479782
+    second: SitSleep-WakeUp_Hollowing_28
+  - first:
+      213: -4584452674898194013
+    second: SitSleep-WakeUp_Hollowing_29
+  - first:
+      213: -8560876060930449544
+    second: SitSleep-WakeUp_Hollowing_30
+  - first:
+      213: -2092576536980262317
+    second: SitSleep-WakeUp_Hollowing_31
+  - first:
+      213: 7154513101284030631
+    second: SitSleep-WakeUp_Hollowing_32
+  - first:
+      213: 7410367815029557985
+    second: SitSleep-WakeUp_Hollowing_33
+  - first:
+      213: -9094218413025658314
+    second: SitSleep-WakeUp_Hollowing_34
+  - first:
+      213: 5418506344622555155
+    second: SitSleep-WakeUp_Hollowing_35
+  - first:
+      213: -2191473805154372627
+    second: SitSleep-WakeUp_Hollowing_36
+  - first:
+      213: -1864492279069819105
+    second: SitSleep-WakeUp_Hollowing_37
+  - first:
+      213: 3319808181089850460
+    second: SitSleep-WakeUp_Hollowing_38
+  - first:
+      213: 3364329258321638553
+    second: SitSleep-WakeUp_Hollowing_39
+  - first:
+      213: -3778037876857664811
+    second: SitSleep-WakeUp_Hollowing_40
+  - first:
+      213: -952901055957551979
+    second: SitSleep-WakeUp_Hollowing_41
+  - first:
+      213: 3671585371533803652
+    second: SitSleep-WakeUp_Hollowing_42
+  - first:
+      213: -1669403303710360913
+    second: SitSleep-WakeUp_Hollowing_43
+  - first:
+      213: -4265369488991829935
+    second: SitSleep-WakeUp_Hollowing_44
+  - first:
+      213: 6702028343719318555
+    second: SitSleep-WakeUp_Hollowing_45
+  - first:
+      213: -8085200684660856598
+    second: SitSleep-WakeUp_Hollowing_46
+  - first:
+      213: 5788889147802066335
+    second: SitSleep-WakeUp_Hollowing_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3210b714516abeed0800000000000000
+      internalID: -2383628967539441373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1771350d73073440800000000000000
+      internalID: 4915401353791108892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa53571453342cc0800000000000000
+      internalID: -3736805354549060954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e12f881169e38040800000000000000
+      internalID: 4648815843609616867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d60d359ca32d52b0800000000000000
+      internalID: -5594275937979136297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dec61e94546b86e0800000000000000
+      internalID: -1834262108631019819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57c7aa1bba695c70800000000000000
+      internalID: 8960310285468944222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddb22c68b41e10b0800000000000000
+      internalID: -5756140491412161057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3581eb1dddcdc1920800000000000000
+      internalID: 2962485500167723091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1832f080f0d361c0800000000000000
+      internalID: -4511532670321018849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c3cf43d89aa2ed0800000000000000
+      internalID: -2437949824323273652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53d9e95cbaed2b50800000000000000
+      internalID: 6570165526086669150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e432ec17270eec0800000000000000
+      internalID: -3539703473997918585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dba2b21cf9e72a10800000000000000
+      internalID: 1884732237932571609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735872ff49f063440800000000000000
+      internalID: 4915133175931831607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941ae805061668f40800000000000000
+      internalID: 5730374642171814217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3b97f456521b8d0800000000000000
+      internalID: -2832441573584030757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e878b47cf9bb100800000000000000
+      internalID: 124869092997303860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e2cdf5003cda930800000000000000
+      internalID: 4156192437508517533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a45870d975d9970800000000000000
+      internalID: 8763256781880511063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb909d238f0b64a60800000000000000
+      internalID: 7658002796441569723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd17224d75b043700800000000000000
+      internalID: 519052328903537117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac207a7dc2e84a70800000000000000
+      internalID: 8811542043100720296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e74ffee2c0615b00800000000000000
+      internalID: 815539397880399846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6f38f15a68cad60800000000000000
+      internalID: 7902839489884845781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24d56c721f969ab0800000000000000
+      internalID: -5001635434403081170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0db43fd7cd5fb8a0800000000000000
+      internalID: -6287203441761272564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a67f749427ffa440800000000000000
+      internalID: 4949446251985729193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e91d3b9e8e6c290800000000000000
+      internalID: -7870347208341479782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a19a17e490c060c0800000000000000
+      internalID: -4584452674898194013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f581e7498a13980800000000000000
+      internalID: -8560876060930449544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35279fff9bca5f2e0800000000000000
+      internalID: -2092576536980262317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b9e662cfe94360800000000000000
+      internalID: 7154513101284030631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea03d5144ae6d660800000000000000
+      internalID: 7410367815029557985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63af9cd5988dac180800000000000000
+      internalID: -9094218413025658314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3108d6cdfc6623b40800000000000000
+      internalID: 5418506344622555155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de333356f225691e0800000000000000
+      internalID: -2191473805154372627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fb593962eff16e0800000000000000
+      internalID: -1864492279069819105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54db4c93f3521e20800000000000000
+      internalID: 3319808181089850460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994f6bda2af70be20800000000000000
+      internalID: 3364329258321638553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da8de16196b19bc0800000000000000
+      internalID: -3778037876857664811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5943e8dc98d96c2f0800000000000000
+      internalID: -952901055957551979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4800bc8417714f230800000000000000
+      internalID: 3671585371533803652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faafa774a8615d8e0800000000000000
+      internalID: -1669403303710360913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1504ad47c0d5ec4c0800000000000000
+      internalID: -4265369488991829935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b145dfd0543620d50800000000000000
+      internalID: 6702028343719318555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae86b0580d89bcf80800000000000000
+      internalID: -8085200684660856598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SitSleep-WakeUp_Hollowing_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d1bd25204465050800000000000000
+      internalID: 5788889147802066335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e8097dc193461646b2c47bec081ea2e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 67362462fd0439e4696246d1e3868279, type: 3}
+      name: _EmissionMap
+    - texture: {fileID: 2800000, guid: a9b110c1f6106544ab05fb2329c3286b, type: 3}
+      name: _MaskTex
+    - texture: {fileID: 2800000, guid: bce59937aed566c41ab67bfec96ee946, type: 3}
+      name: _NormalMap
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SitSleep-WakeUp_Hollowing_0: -2383628967539441373
+      SitSleep-WakeUp_Hollowing_1: 4915401353791108892
+      SitSleep-WakeUp_Hollowing_10: -2437949824323273652
+      SitSleep-WakeUp_Hollowing_11: 6570165526086669150
+      SitSleep-WakeUp_Hollowing_12: -3539703473997918585
+      SitSleep-WakeUp_Hollowing_13: 1884732237932571609
+      SitSleep-WakeUp_Hollowing_14: 4915133175931831607
+      SitSleep-WakeUp_Hollowing_15: 5730374642171814217
+      SitSleep-WakeUp_Hollowing_16: -2832441573584030757
+      SitSleep-WakeUp_Hollowing_17: 124869092997303860
+      SitSleep-WakeUp_Hollowing_18: 4156192437508517533
+      SitSleep-WakeUp_Hollowing_19: 8763256781880511063
+      SitSleep-WakeUp_Hollowing_2: -3736805354549060954
+      SitSleep-WakeUp_Hollowing_20: 7658002796441569723
+      SitSleep-WakeUp_Hollowing_21: 519052328903537117
+      SitSleep-WakeUp_Hollowing_22: 8811542043100720296
+      SitSleep-WakeUp_Hollowing_23: 815539397880399846
+      SitSleep-WakeUp_Hollowing_24: 7902839489884845781
+      SitSleep-WakeUp_Hollowing_25: -5001635434403081170
+      SitSleep-WakeUp_Hollowing_26: -6287203441761272564
+      SitSleep-WakeUp_Hollowing_27: 4949446251985729193
+      SitSleep-WakeUp_Hollowing_28: -7870347208341479782
+      SitSleep-WakeUp_Hollowing_29: -4584452674898194013
+      SitSleep-WakeUp_Hollowing_3: 4648815843609616867
+      SitSleep-WakeUp_Hollowing_30: -8560876060930449544
+      SitSleep-WakeUp_Hollowing_31: -2092576536980262317
+      SitSleep-WakeUp_Hollowing_32: 7154513101284030631
+      SitSleep-WakeUp_Hollowing_33: 7410367815029557985
+      SitSleep-WakeUp_Hollowing_34: -9094218413025658314
+      SitSleep-WakeUp_Hollowing_35: 5418506344622555155
+      SitSleep-WakeUp_Hollowing_36: -2191473805154372627
+      SitSleep-WakeUp_Hollowing_37: -1864492279069819105
+      SitSleep-WakeUp_Hollowing_38: 3319808181089850460
+      SitSleep-WakeUp_Hollowing_39: 3364329258321638553
+      SitSleep-WakeUp_Hollowing_4: -5594275937979136297
+      SitSleep-WakeUp_Hollowing_40: -3778037876857664811
+      SitSleep-WakeUp_Hollowing_41: -952901055957551979
+      SitSleep-WakeUp_Hollowing_42: 3671585371533803652
+      SitSleep-WakeUp_Hollowing_43: -1669403303710360913
+      SitSleep-WakeUp_Hollowing_44: -4265369488991829935
+      SitSleep-WakeUp_Hollowing_45: 6702028343719318555
+      SitSleep-WakeUp_Hollowing_46: -8085200684660856598
+      SitSleep-WakeUp_Hollowing_47: 5788889147802066335
+      SitSleep-WakeUp_Hollowing_5: -1834262108631019819
+      SitSleep-WakeUp_Hollowing_6: 8960310285468944222
+      SitSleep-WakeUp_Hollowing_7: -5756140491412161057
+      SitSleep-WakeUp_Hollowing_8: 2962485500167723091
+      SitSleep-WakeUp_Hollowing_9: -4511532670321018849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

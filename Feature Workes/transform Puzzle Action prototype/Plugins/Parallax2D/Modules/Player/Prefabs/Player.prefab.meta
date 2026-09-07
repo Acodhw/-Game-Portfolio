@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 12135d0830c8e1348bd8d7544bcc3ff5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97129
+  packageName: Script & Toolkit for creating 2D parallax background
+  packageVersion: 1.1
+  assetPath: Assets/Parallax2D/Modules/Player/Prefabs/Player.prefab
+  uploadId: 508095
